@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : test2.c
- Author      :
+ Author      :1
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
